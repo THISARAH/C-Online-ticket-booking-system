@@ -1,0 +1,77 @@
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\bin\Debug\team final project.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\bin\Debug\team final project.exe
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\bin\Debug\team final project.pdb
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team final project.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Admin.resources
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Form1.resources
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team final project.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team final project.exe
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team final project.pdb
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Employee.resources
+c:\users\acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Customer.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.manage_employee_details.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.ticket_details_report.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Manage_customer_Details.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Select_Musical_Show.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Select_Ticket.resources
+C:\Users\Acer\documents\visual studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.Manage_ticket_details.resources
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\team final project\team final project\obj\Debug\team_final_project.View_Customer_Details.resources
+C:\Users\ACER\Desktop\team final project\team final project\bin\Debug\team final project.exe.config
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team final project.exe
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team final project.pdb
+C:\Users\ACER\Desktop\team final project\team final project\bin\Debug\team final project.exe
+C:\Users\ACER\Desktop\team final project\team final project\bin\Debug\team final project.pdb
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team final project.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Admin.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Customer.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Employee.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Form1.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Manage_customer_Details.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.manage_employee_details.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Manage_ticket_details.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Properties.Resources.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Select_Musical_Show.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.Select_Ticket.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.ticket_details_report.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team_final_project.View_Customer_Details.resources
+C:\Users\ACER\Desktop\team final project\team final project\obj\Debug\team final project.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\bin\Debug\team final project.exe.config
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team final project.exe
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team final project.pdb
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\bin\Debug\team final project.exe
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\bin\Debug\team final project.pdb
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team final project.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Admin.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Customer.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Employee.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Form1.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Manage_customer_Details.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.manage_employee_details.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Manage_ticket_details.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Properties.Resources.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Select_Musical_Show.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.Select_Ticket.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.ticket_details_report.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team_final_project.View_Customer_Details.resources
+C:\Users\ACER\Desktop\Last Project\team final project\team final project\obj\Debug\team final project.csproj.GenerateResource.Cache
+F:\ESOFT\Last Project\team final project\team final project\bin\Debug\team final project.exe.config
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team final project.exe
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team final project.pdb
+F:\ESOFT\Last Project\team final project\team final project\bin\Debug\team final project.exe
+F:\ESOFT\Last Project\team final project\team final project\bin\Debug\team final project.pdb
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Admin.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Customer.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Employee.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Form1.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Manage_customer_Details.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.manage_employee_details.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Manage_ticket_details.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Properties.Resources.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Select_Musical_Show.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.Select_Ticket.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.ticket_details_report.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team_final_project.View_Customer_Details.resources
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team final project.csproj.GenerateResource.Cache
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team final project.csprojAssemblyReference.cache
+F:\ESOFT\Last Project\team final project\team final project\obj\Debug\team final project.csproj.CoreCompileInputs.cache
